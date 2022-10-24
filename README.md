@@ -2,6 +2,12 @@
 
 Start some Haskell Examples.  
 
+TODO:
+
+* Working through these
+* https://wiki.haskell.org/H-99:_Ninety-Nine_Haskell_Problems
+* http://learnyouahaskell.com/chapters
+
 ## Install
 
 ```sh
@@ -31,7 +37,4 @@ https://www.tutorialspoint.com/haskell/index.htm
 https://lambdablob.com/posts/smarter-programming-with-monads/
 
 
-https://wiki.haskell.org/H-99:_Ninety-Nine_Haskell_Problems
 
-
-http://learnyouahaskell.com/chapters

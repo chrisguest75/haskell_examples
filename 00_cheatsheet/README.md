@@ -4,6 +4,12 @@
 ```haskell
 -- comments 
 :t "a" 
+
+-- division
+div 40 3
+
+-- division infix alternative
+40 `div` 3
 ```
 
 ## Lists
@@ -39,3 +45,5 @@ fact 10
 
 ## Resources
 
+* https://wiki.haskell.org/H-99:_Ninety-Nine_Haskell_Problems
+* http://learnyouahaskell.com/chapters
