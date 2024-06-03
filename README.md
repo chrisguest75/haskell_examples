@@ -7,6 +7,7 @@ TODO:
 * Working through these
 * https://wiki.haskell.org/H-99:_Ninety-Nine_Haskell_Problems
 * http://learnyouahaskell.com/chapters
+* Setting up vscode for haskell
 
 ## Install
 
